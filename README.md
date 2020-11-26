@@ -3,7 +3,7 @@
 建立一個Dockerize ASP.NET Core MVC + MySQL 網站
 
 
-1. ASP.NET Core MVC Series<br />
+1 ASP.NET Core MVC Series
 ==================================<br />
 https://code-maze.com/asp-net-core-mvc-series/
 
@@ -25,7 +25,7 @@ https://medium.com/@stas_khavruk/how-to-properly-use-ef-core-in-asp-net-core-wit
    2.2 Modify the Model file for Mysql datatype<br />
    2.3 Follow the article<br />
 
-3. Adding MySQL to ASP.NET Core App With Docker Compose
+3 Adding MySQL to ASP.NET Core App With Docker Compose
 ============================================================<br />
 https://code-maze.com/mysql-aspnetcore-docker-compose/<br />
 
