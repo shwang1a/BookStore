@@ -9,7 +9,7 @@ services:
        MYSQL_USER: sf
        MYSQL_PASSWORD: P@ssw0rd1234
     volumes:
-       - dbdata:/var/lib/mysql
+       - dbdata:/var/lib/mysql57
        - ./sqls:/docker-entrypoint-initdb.d
     restart: always
 
