@@ -4,7 +4,7 @@
 
 
 1. ASP.NET Core MVC Series<br />
-==================================
+==================================<br />
 https://code-maze.com/asp-net-core-mvc-series/
 
 1.1 Get started with ASP.NET Core MVC project
@@ -23,7 +23,7 @@ https://medium.com/@stas_khavruk/how-to-properly-use-ef-core-in-asp-net-core-wit
 2.2 How to properly use EF Core in ASP.NET Core with MySql Database<br />
    2.1 NuGet install Pomelo.EntityFrameworkCore.MySql<br />
    2.2 Modify the Model file for Mysql datatype<br />
-   2.3 Follow the article< br/>
+   2.3 Follow the article<br />
 
 3. Adding MySQL to ASP.NET Core App With Docker Compose
 ============================================================<br />
