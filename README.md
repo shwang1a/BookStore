@@ -4,7 +4,7 @@
 
 
 1 ASP.NET Core MVC Series
-==================================<br />
+============================
 https://code-maze.com/asp-net-core-mvc-series/
 
 1.1 Get started with ASP.NET Core MVC project
@@ -16,7 +16,7 @@ https://code-maze.com/getting-started-with-asp-net-core-mvc/
 https://code-maze.com/working-with-data-in-asp-net-core-mvc/
 
 2 Migaration to Mysql
-===============================
+===========================
 https://medium.com/@stas_khavruk/how-to-properly-use-ef-core-in-asp-net-core-with-mysql-database-a75f56c97318
 
 2.1 run commad two times, Remove-Migration<br />
@@ -26,7 +26,7 @@ https://medium.com/@stas_khavruk/how-to-properly-use-ef-core-in-asp-net-core-wit
    2.3 Follow the article<br />
 
 3 Adding MySQL to ASP.NET Core App With Docker Compose
-============================================================<br />
+==========================================================
 https://code-maze.com/mysql-aspnetcore-docker-compose/<br />
 
 3.1請先在docker-compose.yml加入mysql部分,測完再加入Asp.NET Core部分<br />
